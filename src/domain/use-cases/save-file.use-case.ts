@@ -1,3 +1,4 @@
+// * importar dependencias viola la clean achitecture, pero por ahora estará así
 import fs from "fs";
 
 export interface SaveFileUseCase {
